@@ -39,3 +39,9 @@ $ docker compose up
 src\exp33_no_attribution.ipynb
 src\exp33.ipynb
 ```
+
+## Hardware
+
+- **Operating System**:  Windows 11
+- **Memory (RAM)**: 128 GB
+- **Graphics**: Nvidia RTX3090
